@@ -1,0 +1,44 @@
+Computation: The process of performing calculations and operations on a computer to process data and perform tasks.
+Storage: The capability to store and retain data, files, and information on computer systems, either locally or in the cloud.
+Network: A collection of interconnected devices that can share resources and communicate, including LANs (Local Area Networks) and WANs (Wide Area Networks).
+
+Hardware Units:
+CPU (Central Processing Unit): The primary hardware component responsible for executing instructions and performing calculations in a computer.
+GPU (Graphics Processing Unit): A specialized hardware component optimized for rendering graphics and handling parallel processing tasks.
+DPU (Data Processing Unit): Hardware designed for accelerating data processing tasks, including data compression and encryption.
+TPU (Tensor Processing Unit): A specialized hardware unit for accelerating machine learning and neural network computations.
+
+Computer Architecturers
+
+
+CISC (Complex Instruction Set Computer): A computer architecture with a diverse and extensive set of instructions, which can make it more versatile but sometimes less efficient.
+RISC (Reduced Instruction Set Computer): A computer architecture that uses a simplified and optimized set of instructions to improve performance.
+RISC-V (Open Source RISC Variant): An open-source RISC architecture, allowing for customization and flexibility.
+Embedded Systems: Computer systems integrated into devices or machines for dedicated functions, such as IoT devices and industrial controllers
+
+KERNEL AND OPERATING SYSTEM 
+Kernel: The core component of an operating system that manages hardware resources and enables communication between software applications and hardware.
+Operating Systems: Software that manages computer hardware, provides user interfaces, and supports running applications and processes.
+
+LINUX
+Debian and RHEL Linux Families: Two popular Linux distributions, with Debian known for its open-source approach and RHEL (Red Hat Enterprise Linux) for its enterprise support.
+Package Manager (Yum): A package management tool used in RHEL-based distributions to install, update, and manage software packages.
+IBM's Ownership of Red Hat: IBM's acquisition of Red
+
+NETWORKING
+
+Internet (WAN - Wide Area Network): A global network that connects computers and networks across the world, enabling data and information exchange.
+Intranet (LAN - Local Area Network): A localized network within an organization that facilitates communication and resource sharing among connected devices.
+
+BLOCKCHAIN
+
+Blockchain is a distributed ledger technology that securely and openly logs transactions across numerous computers (called nodes).
+
+*The term "blockchain" refers to a chain of blocks that are formed by grouping transactions into units called blocks and connecting them in chronological order.
+
+it was Developed by an anonymous person or group known as Satoshi Nakamoto. Nakamoto is credited with conceptualizing the first blockchain technology in 2008. In 2009, Nakamoto launched the Bitcoin blockchain and cryptocurrency.
+
+
+CRYPTOCURRENCY
+A decentralized digital or virtual currency, cryptocurrency is secured by cryptographic technology. It runs on a blockchain ledger, guaranteeing immutability and transparency. The original cryptocurrency, Bitcoin, started a revolution
+that has resulted in the existence of hundreds of alternative coins (altcoins). Cryptocurrencies are used for a variety of things, including online commerce and investment, but their prices are notorious for being extremely volatile. Additionally, they are governed by globally changing regulatory systems.
